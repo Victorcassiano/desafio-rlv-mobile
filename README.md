@@ -68,7 +68,7 @@ yarn android
 
 ### Recursos
 
--   Documentação do Nativewind: [URL inválido removido]
+-   Documentação do Nativewind: [https://www.nativewind.dev/](https://www.nativewind.dev/)
 -   Documentação do Expo:  [https://docs.expo.dev/](https://docs.expo.dev/)
 -   Documentação do Native Base:  [https://nativebase.io/](https://nativebase.io/)
 -   Documentação do Momentjs:  [https://momentjs.com/](https://momentjs.com/)
